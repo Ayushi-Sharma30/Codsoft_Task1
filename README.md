@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Movie Genre Classification
 
 This project is developed as part of the CodSoft Data Science Internship.
@@ -40,3 +41,7 @@ CodSoft_Task1/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+=======
+# Codsoft_Task1
+Movie Genre Classification using Machine Learning | CodSoft Internship Task 1
+>>>>>>> 0aaf9f482db3c6b83e45ff017d8ea96beb6538bd
